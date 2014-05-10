@@ -27,7 +27,7 @@ set showmatch
 highlight Comment ctermfg=LightCyan
 set wrap
 
-#Set tab bang 4 va tu dong
+" Set tab bang 4 va tu dong
 set smartindent 
 set tabstop=4 
 set shiftwidth=4 
