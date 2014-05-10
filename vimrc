@@ -27,6 +27,12 @@ set showmatch
 highlight Comment ctermfg=LightCyan
 set wrap
 
+#Set tab bang 4 va tu dong
+set smartindent 
+set tabstop=4 
+set shiftwidth=4 
+set expandtab
+
 " If using a dark background within the editing area and syntax highlighting
 " turn on this option as well
 "set background=dark
